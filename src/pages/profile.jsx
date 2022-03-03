@@ -1,3 +1,4 @@
-export default function Profile() {
+export default function Profile(props) {
+ 
   return <div>Profile Page</div>
 }
